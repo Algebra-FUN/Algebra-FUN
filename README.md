@@ -1,14 +1,6 @@
 ## Hi there 👋
 
-
-### Stats
-
-![](https://github-readme-stats.vercel.app/api?username=algebra-fun&count_private=true&show_icons=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=algebra-fun&layout=compact&hide=jupyter%20notebook,less,html,mathematica&langs_count=10)
-
-
-### Languages I use
+### Languages I learn
 
 <p>
 	<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
@@ -29,5 +21,12 @@
   	<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
 	<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
 </p>
+
+### Stats
+
+![](https://github-readme-stats.vercel.app/api?username=algebra-fun&count_private=true&show_icons=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=algebra-fun&layout=compact&hide=jupyter%20notebook,less,html,mathematica&langs_count=10)
+
 
 
