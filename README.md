@@ -3,7 +3,7 @@
 ### About
 
 - 🏫 I am studying at HKUST
-- 🎓 I am graduated from the Peiyang University , aka the Tianjin Univeristy
+- 🎓 I am graduated from the Peiyang University, aka the Tianjin Univeristy
 - 💬 Ask me about mathematics
 - 📧 You can send me email: algebra-fun@outlook.com
 - 😏 Welcome to visit my blog: [algebra-fun.github.io](https://algebra-fun.github.io)
