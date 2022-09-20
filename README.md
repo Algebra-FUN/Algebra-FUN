@@ -2,7 +2,7 @@
 
 ### About
 
-- 🏫 I am studying at HKUST
+- 🏫 I am studying at the Hong Kong University of Science and Technology
 - 🎓 I am graduated from the Peiyang University, aka the Tianjin Univeristy
 - 💬 Ask me about mathematics
 - 📧 You can send me email: algebra-fun@outlook.com
